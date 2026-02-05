@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 趋势与资源导航 - 发现下一个 DeepSeek</title>
+    <meta name="description" content="实时监控全球 AI 技术趋势、GitHub 热门项目及行业深度解读。利用 AI 自动化采集与分析，为您过滤噪音。">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #0f172a; color: #f8fafc; }
+        .glass-card { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1); }
+        .tech-gradient { background: linear-gradient(135deg, #0ea5e9 0%, #2563eb 100%); }
+    </style>
+</head>
+<body class="min-h-screen">
+    <div id="app" class="max-w-5xl mx-auto px-4 py-12">
+        <!-- Header -->
+        <header class="text-center mb-16">
+            <h1 class="text-4xl md:text-6xl font-extrabold mb-4 tracking-tight">
+                <span class="text-transparent bg-clip-text tech-gradient">AI Resource</span> Hub
+            </h1>
+            <p class="text-slate-400 text-lg md:text-xl max-w-2xl mx-auto">
+                {{ siteSubtitle }}
+            </p>
+        </header>
+
+        <!-- Search & Filter (Optional placeholder for future) -->
+        <div class="mb-12 flex justify-center">
+            <div class="relative w-full max-w-md">
+                <input type="text" v-model="searchQuery" placeholder="搜索 AI 神器..." 
+                    class="w-full bg-slate-800 border border-slate-700 rounded-full py-3 px-6 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all">
+            </div>
+        </div>
+
+        <!-- Content Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div v-for="(item, index) in filteredItems" :key="index" 
+                class="glass-card rounded-2xl p-6 hover:transform hover:-translate-y-1 transition-all duration-300">
+                <div class="flex items-center justify-between mb-4">
+                    <span class="text-xs font-bold px-2 py-1 rounded tech-gradient uppercase">{{ item.category || 'Tech' }}</span>
+                    <span class="text-slate-500 text-sm">{{ item.date }}</span>
+                </div>
+                <h2 class="text-xl font-bold mb-3 hover:text-blue-400 cursor-pointer">{{ item.title }}</h2>
+                <p class="text-slate-400 text-sm mb-6 line-clamp-3">
+                    {{ item.summary }}
+                </p>
+                <div class="flex items-center justify-between">
+                    <div class="flex items-center space-x-2">
+                        <span class="text-yellow-500">★</span>
+                        <span class="text-sm font-semibold">{{ item.stars || 'N/A' }}</span>
+                    </div>
+                    <a :href="item.url" target="_blank" class="text-blue-400 hover:underline text-sm font-medium">查看详情 →</a>
+                </div>
+                
+                <!-- Affiliate Hook (Psychology: High Value Recommendation) -->
+                <div v-if="item.affiliate_link" class="mt-4 pt-4 border-t border-slate-700">
+                    <a :href="item.affiliate_link" class="text-xs text-orange-400 font-medium">✨ 站长私藏：点击获取配套高效工具包</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Empty State -->
+        <div v-if="filteredItems.length === 0" class="text-center py-20">
+            <p class="text-slate-500 italic">暂无匹配项目，请尝试搜索其他关键词。</p>
+        </div>
+
+        <!-- Footer -->
+        <footer class="mt-20 pt-8 border-t border-slate-800 text-center text-slate-500 text-sm">
+            <p>© 2026 AI Resource Hub. 全自动 AI 采集驱动</p>
+        </footer>
+    </div>
+
+    <script>
+        const { createApp, ref, onMounted, computed } = Vue;
+
+        createApp({
+            setup() {
+                const siteSubtitle = ref('每日 09:00/11:00/14:00/17:00 准时更新全网最硬核 AI 资讯');
+                const items = ref([]);
+                const searchQuery = ref('');
+
+                const fetchItems = async () => {
+                    try {
+                        // 动态读取自动生成的 JSON 数据
+                        const response = await fetch('data/articles.json');
+                        items.value = await response.json();
+                    } catch (error) {
+                        console.error('Failed to load articles:', error);
+                        // Fallback items for demo
+                        items.value = [
+                            { 
+                                title: "如何利用 AI 寻找 passive income 机会？", 
+                                summary: "正在加载实时数据...", 
+                                date: "2026-02-05", 
+                                stars: "99k", 
+                                url: "#" 
+                            }
+                        ];
+                    }
+                };
+
+                const filteredItems = computed(() => {
+                    return items.value.filter(item => 
+                        item.title.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
+                        item.summary.toLowerCase().includes(searchQuery.value.toLowerCase())
+                    );
+                });
+
+                onMounted(fetchItems);
+
+                return { siteSubtitle, items, searchQuery, filteredItems };
+            }
+        }).mount('#app');
+    </script>
+</body>
+</html>
