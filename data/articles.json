@@ -1,5 +1,14 @@
 [
     {
+        "title": "【揭秘】6行代码打造AI记忆，Cognee如何成为AI时代的独角兽？",
+        "summary": "- **摘要 (TL;DR)**: 在AI开发领域，Cognee以简洁的代码和强大的记忆功能成为新宠。本文深入解析其技术原理，对比竞品，展望其行业影响。\n\n- **背景与痛点**: 在复杂的AI应用中，记忆功能是必不可少的。然而，传统的记忆系统往往复杂且难以集成。Cognee的出现，为开发者提供了一种简单高效的方式来实现AI的记忆功能。\n\n- **核心亮点 (Deep Dive)**: \n  - Cognee的核心优势在于其极简的代码实现，仅需6行代码即可实现AI的记忆功能。其原理基于神经网络的记忆存储机制，通过模拟人脑记忆过程，实现高效的数据存储和检索。\n  - **代码示例**: pyth...",
+        "url": "https://github.com/topoteretes/cognee",
+        "stars": "Trending",
+        "date": "2026-02-06 09:00",
+        "category": "Deep Dive",
+        "affiliate_link": "https://u.jd.com/promo?id=4103255620&subid=hub"
+    },
+    {
         "title": "揭秘 Claude Code Hooks：你的代码钩子 mastery 新时代",
         "summary": "揭秘 Claude Code Hooks：你的代码钩子 mastery 新时代\n\n 摘要 (TL;DR)\n\n在 DevOps 和 Web3 热潮中，Claude Code Hooks 成为新一代编程利器。本文深入解析其技术原理、架构优势，并与竞品进行对比，助你掌握代码钩子 mastery 的奥秘。\n\n 背景与痛点\n\n现代软件开发环境中，复杂的系统需求使得代码维护变得困难。开发者常面临代码冗余、错误率高、难以维护等问题。Claude Code Hooks 正是针对这些痛点而生的工具，它通过自动化和模块化提高代码质量与效率。\n\n 核心亮点 (Deep Dive)\n\n 技术原理...",
         "url": "https://github.com/disler/claude-code-hooks-mastery",
