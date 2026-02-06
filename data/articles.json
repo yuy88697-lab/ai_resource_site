@@ -1,5 +1,14 @@
 [
     {
+        "title": "揭秘Grok2API：FastAPI重构，对话与图像生成新标杆，为何它如此火爆？",
+        "summary": "揭秘Grok2API：FastAPI重构，对话与图像生成新标杆，为何它如此火爆？\n\n 摘要 (TL;DR)\n在AI/DevOps/Web3的浪潮中，Grok2API以其基于FastAPI的重构，流/非流式对话、图像生成/编辑、深度思考等功能，成为新一代的API解决方案。本文将深入解析其技术原理，对比竞品，并展望其未来影响。\n\n 背景与痛点\n在快速发展的互联网时代，开发者们面临着日益复杂的API开发需求。传统的API开发往往需要花费大量时间在架构设计和性能优化上，而Grok2API的出现，正是为了解决这一痛点。\n\n 核心亮点 (Deep Dive)\nGrok2API的核心亮点在于...",
+        "url": "#",
+        "stars": "Trending",
+        "date": "2026-02-06 11:01",
+        "category": "Deep Dive",
+        "affiliate_link": null
+    },
+    {
         "title": "【揭秘】6行代码打造AI记忆，Cognee如何成为AI时代的独角兽？",
         "summary": "- **摘要 (TL;DR)**: 在AI开发领域，Cognee以简洁的代码和强大的记忆功能成为新宠。本文深入解析其技术原理，对比竞品，展望其行业影响。\n\n- **背景与痛点**: 在复杂的AI应用中，记忆功能是必不可少的。然而，传统的记忆系统往往复杂且难以集成。Cognee的出现，为开发者提供了一种简单高效的方式来实现AI的记忆功能。\n\n- **核心亮点 (Deep Dive)**: \n  - Cognee的核心优势在于其极简的代码实现，仅需6行代码即可实现AI的记忆功能。其原理基于神经网络的记忆存储机制，通过模拟人脑记忆过程，实现高效的数据存储和检索。\n  - **代码示例**: pyth...",
         "url": "https://github.com/topoteretes/cognee",
