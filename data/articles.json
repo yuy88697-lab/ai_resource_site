@@ -1,5 +1,14 @@
 [
     {
+        "title": "【演示】为什么 anthropics/skills 是下一个技术热点？",
+        "summary": "背景与痛点\n在当今的开发环境中，Public repository for Agent Skills 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **anthropics/skills** 这样轻量级且高性能的工具。\n\n 核心亮点\nanthropics/skills 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (64,415 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试想一下，你只需要几行代码就能集成这个功能：\n```pyt...",
+        "url": "https://github.com/anthropics/skills",
+        "stars": "Trending",
+        "date": "2026-02-06 17:28",
+        "category": "Deep Dive",
+        "affiliate_link": null
+    },
+    {
         "title": "揭秘Grok2API：FastAPI重构，对话与图像生成新标杆，为何它如此火爆？",
         "summary": "揭秘Grok2API：FastAPI重构，对话与图像生成新标杆，为何它如此火爆？\n\n 摘要 (TL;DR)\n在AI/DevOps/Web3的浪潮中，Grok2API以其基于FastAPI的重构，流/非流式对话、图像生成/编辑、深度思考等功能，成为新一代的API解决方案。本文将深入解析其技术原理，对比竞品，并展望其未来影响。\n\n 背景与痛点\n在快速发展的互联网时代，开发者们面临着日益复杂的API开发需求。传统的API开发往往需要花费大量时间在架构设计和性能优化上，而Grok2API的出现，正是为了解决这一痛点。\n\n 核心亮点 (Deep Dive)\nGrok2API的核心亮点在于...",
         "url": "#",
