@@ -1,5 +1,14 @@
 [
     {
+        "title": "【演示】为什么 microsoft/qlib 是下一个技术热点？",
+        "summary": "背景与痛点\n在当今的开发环境中，Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped...",
+        "url": "https://github.com/microsoft/qlib",
+        "stars": "Trending",
+        "date": "2026-02-07 10:21",
+        "category": "Deep Dive",
+        "affiliate_link": null
+    },
+    {
         "title": "【演示】为什么 sgl-project/sglang 是下一个技术热点？",
         "summary": "背景与痛点\n在当今的开发环境中，SGLang is a high-performance serving framework for large language models and multimodal models. 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **sgl-project/sglang** 这样轻量级且高性能的工具。\n\n 核心亮点\nsgl-project/sglang 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (2...",
         "url": "https://github.com/sgl-project/sglang",
