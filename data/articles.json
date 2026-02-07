@@ -1,5 +1,14 @@
 [
     {
+        "title": "【演示】为什么 httpie/cli 是下一个技术热点？",
+        "summary": "背景与痛点\n在当今的开发环境中，🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **httpie/cli** 这样轻量级且高性能的工具。\n\n 核心亮点\nhttpie/cli 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**:...",
+        "url": "https://github.com/httpie/cli",
+        "stars": "Trending",
+        "date": "2026-02-07 11:36",
+        "category": "Deep Dive",
+        "affiliate_link": null
+    },
+    {
         "title": "【演示】为什么 SWE-agent/mini-swe-agent 是下一个技术热点？",
         "summary": "背景与痛点\n在当今的开发环境中，The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified! 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **SWE-agent/mini-swe-agent** 这样轻量级且高性能的工具。\n\n 核心亮点\nSWE-age...",
         "url": "https://github.com/SWE-agent/mini-swe-agent",
