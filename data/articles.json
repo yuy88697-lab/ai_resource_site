@@ -1,5 +1,14 @@
 [
     {
+        "title": "【演示】为什么 shareAI-lab/learn-claude-code 是下一个技术热点？",
+        "summary": "背景与痛点\n在当今的开发环境中，Bash is all You need - Write a nano Claude Code 0 - 1 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **shareAI-lab/learn-claude-code** 这样轻量级且高性能的工具。\n\n 核心亮点\nshareAI-lab/learn-claude-code 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (16,616 Stars) 证明了它的受欢...",
+        "url": "https://github.com/shareAI-lab/learn-claude-code",
+        "stars": "Trending",
+        "date": "2026-02-07 10:22",
+        "category": "Deep Dive",
+        "affiliate_link": "https://u.jd.com/promo?id=4103255620&subid=hub"
+    },
+    {
         "title": "【演示】为什么 microsoft/qlib 是下一个技术热点？",
         "summary": "背景与痛点\n在当今的开发环境中，Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped...",
         "url": "https://github.com/microsoft/qlib",
