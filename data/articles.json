@@ -1,5 +1,14 @@
 [
     {
+        "title": "【演示】为什么 p-e-w/heretic 是下一个技术热点？",
+        "summary": "背景与痛点\n在当今的开发环境中，Fully automatic censorship removal for language models 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **p-e-w/heretic** 这样轻量级且高性能的工具。\n\n 核心亮点\np-e-w/heretic 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (4,903 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试想一下，你只需要几行代码就能集成这...",
+        "url": "https://github.com/p-e-w/heretic",
+        "stars": "Trending",
+        "date": "2026-02-09 09:14",
+        "category": "Deep Dive",
+        "affiliate_link": null
+    },
+    {
         "title": "【演示】为什么 OpenBMB/MiniCPM-o 是下一个技术热点？",
         "summary": "背景与痛点\n在当今的开发环境中，A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **OpenBMB/MiniCPM-o** 这样轻量级且高性能的工具。\n\n 核心亮点\nOpenBMB/MiniCPM-o 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区...",
         "url": "https://github.com/OpenBMB/MiniCPM-o",
