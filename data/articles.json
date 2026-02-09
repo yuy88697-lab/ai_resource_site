@@ -1,5 +1,14 @@
 [
     {
+        "title": "【演示】为什么 hsliuping/TradingAgents-CN 是下一个技术热点？",
+        "summary": "背景与痛点\n在当今的开发环境中，基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **hsliuping/TradingAgents-CN** 这样轻量级且高性能的工具。\n\n 核心亮点\nhsliuping/TradingAgents-CN 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (15,986 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试想一下，你...",
+        "url": "https://github.com/hsliuping/TradingAgents-CN",
+        "stars": "Trending",
+        "date": "2026-02-09 09:29",
+        "category": "Deep Dive",
+        "affiliate_link": null
+    },
+    {
         "title": "【演示】为什么 public-apis/public-apis 是下一个技术热点？",
         "summary": "背景与痛点\n在当今的开发环境中，A collective list of free APIs 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **public-apis/public-apis** 这样轻量级且高性能的工具。\n\n 核心亮点\npublic-apis/public-apis 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (396,590 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试想一下，你只需要几行代码就能集成这个功...",
         "url": "https://github.com/public-apis/public-apis",
