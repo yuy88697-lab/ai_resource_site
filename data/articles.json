@@ -1,5 +1,14 @@
 [
     {
+        "title": "【演示】为什么 huggingface/speech-to-speech 是下一个技术热点？",
+        "summary": "背景与痛点\n在当今的开发环境中，Speech To Speech: an effort for an open-sourced and modular GPT4-o 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **huggingface/speech-to-speech** 这样轻量级且高性能的工具。\n\n 核心亮点\nhuggingface/speech-to-speech 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (4,438 Star...",
+        "url": "https://github.com/huggingface/speech-to-speech",
+        "stars": "Trending",
+        "date": "2026-02-09 14:29",
+        "category": "Deep Dive",
+        "affiliate_link": null
+    },
+    {
         "title": "【演示】为什么 wshobson/agents 是下一个技术热点？",
         "summary": "背景与痛点\n在当今的开发环境中，Intelligent automation and multi-agent orchestration for Claude Code 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **wshobson/agents** 这样轻量级且高性能的工具。\n\n 核心亮点\nwshobson/agents 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (28,162 Stars) 证明了它的受欢迎程度。\n\n 实战价值...",
         "url": "https://github.com/wshobson/agents",
