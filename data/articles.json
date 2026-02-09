@@ -1,5 +1,14 @@
 [
     {
+        "title": "【演示】为什么 OpenBMB/MiniCPM-o 是下一个技术热点？",
+        "summary": "背景与痛点\n在当今的开发环境中，A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **OpenBMB/MiniCPM-o** 这样轻量级且高性能的工具。\n\n 核心亮点\nOpenBMB/MiniCPM-o 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区...",
+        "url": "https://github.com/OpenBMB/MiniCPM-o",
+        "stars": "Trending",
+        "date": "2026-02-09 09:13",
+        "category": "Deep Dive",
+        "affiliate_link": null
+    },
+    {
         "title": "【演示】为什么 google/langextract 是下一个技术热点？",
         "summary": "背景与痛点\n在当今的开发环境中，A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **google/langextract** 这样轻量级且高性能的工具。\n\n 核心亮点\ngoogle/langextract 的出现改变了游戏规则。\n1. **高性...",
         "url": "https://github.com/google/langextract",
