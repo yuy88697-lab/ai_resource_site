@@ -1,5 +1,14 @@
 [
     {
+        "title": "9270+ Star震撼！LTX-Video 如何重塑AI视频创作新范式？深度解析开源框架与未来展望",
+        "summary": "TL;DR: 厌倦了繁琐的视频后期与低效的AI生成？LTX-Video 开源框架，以其革新架构和高效性能，正重新定义AI视频创作的边界，让你的创意瞬间成真，效率飙升！\n\n 背景与痛点：视频创作的“囚徒困境”与AI的破局之路\n\n在内容为王的时代，视频已成为信息传播的核心载体。然而，传统视频制作流程复杂、耗时、成本高昂，即使是简单的修改也需要专业技能和大量时间。随着生成式AI的崛起，视频创作领域迎来了前所未有的机遇，但同时也伴随着新的挑战：\n\n1.  **质量与效率的矛盾：** 现有AI视频生成工具往往在生成质量、速度或长度上存在短板，难以满足专业级需求。\n2.  **技术门槛高企：*...",
+        "url": "https://github.com/Lightricks/LTX-Video",
+        "stars": "Trending",
+        "date": "2026-02-09 14:20",
+        "category": "Deep Dive",
+        "affiliate_link": "https://u.jd.com/promo?id=4103255620&subid=hub"
+    },
+    {
         "title": "【演示】为什么 suitenumerique/docs 是下一个技术热点？",
         "summary": "背景与痛点\n在当今的开发环境中，A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **suitenumerique/docs** 这样轻量级且高性能的工具。\n\n 核心亮点\nsuitenumerique/docs 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社...",
         "url": "https://github.com/suitenumerique/docs",
