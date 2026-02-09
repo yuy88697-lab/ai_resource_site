@@ -1,10 +1,10 @@
 [
     {
-        "title": "【演示】为什么 gyoridavid/ai_agents_az 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，暂无描述 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **gyoridavid/ai_agents_az** 这样轻量级且高性能的工具。\n\n 核心亮点\ngyoridavid/ai_agents_az 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (3,331 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试想一下，你只需要几行代码就能集成这个功能：\n```python\nimport gyoridav...",
-        "url": "https://github.com/gyoridavid/ai_agents_az",
+        "title": "【演示】为什么 openai/skills 是下一个技术热点？",
+        "summary": "背景与痛点\n在当今的开发环境中，Skills Catalog for Codex 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **openai/skills** 这样轻量级且高性能的工具。\n\n 核心亮点\nopenai/skills 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (7,227 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试想一下，你只需要几行代码就能集成这个功能：\n```python\nimport openai/s...",
+        "url": "https://github.com/openai/skills",
         "stars": "Trending",
-        "date": "2026-02-09 15:19",
+        "date": "2026-02-09 16:15",
         "category": "Deep Dive",
         "affiliate_link": "https://u.jd.com/promo?id=4103255620&subid=hub"
     },
@@ -18,24 +18,6 @@
         "affiliate_link": "https://u.jd.com/promo?id=4103255620&subid=hub"
     },
     {
-        "title": "【演示】为什么 huggingface/speech-to-speech 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，Speech To Speech: an effort for an open-sourced and modular GPT4-o 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **huggingface/speech-to-speech** 这样轻量级且高性能的工具。\n\n 核心亮点\nhuggingface/speech-to-speech 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (4,438 Star...",
-        "url": "https://github.com/huggingface/speech-to-speech",
-        "stars": "Trending",
-        "date": "2026-02-09 14:29",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 wshobson/agents 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，Intelligent automation and multi-agent orchestration for Claude Code 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **wshobson/agents** 这样轻量级且高性能的工具。\n\n 核心亮点\nwshobson/agents 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (28,162 Stars) 证明了它的受欢迎程度。\n\n 实战价值...",
-        "url": "https://github.com/wshobson/agents",
-        "stars": "Trending",
-        "date": "2026-02-09 14:26",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
         "title": "9270+ Star震撼！LTX-Video 如何重塑AI视频创作新范式？深度解析开源框架与未来展望",
         "summary": "TL;DR: 厌倦了繁琐的视频后期与低效的AI生成？LTX-Video 开源框架，以其革新架构和高效性能，正重新定义AI视频创作的边界，让你的创意瞬间成真，效率飙升！\n\n 背景与痛点：视频创作的“囚徒困境”与AI的破局之路\n\n在内容为王的时代，视频已成为信息传播的核心载体。然而，传统视频制作流程复杂、耗时、成本高昂，即使是简单的修改也需要专业技能和大量时间。随着生成式AI的崛起，视频创作领域迎来了前所未有的机遇，但同时也伴随着新的挑战：\n\n1.  **质量与效率的矛盾：** 现有AI视频生成工具往往在生成质量、速度或长度上存在短板，难以满足专业级需求。\n2.  **技术门槛高企：*...",
         "url": "https://github.com/Lightricks/LTX-Video",
@@ -43,168 +25,6 @@
         "date": "2026-02-09 14:20",
         "category": "Deep Dive",
         "affiliate_link": "https://u.jd.com/promo?id=4103255620&subid=hub"
-    },
-    {
-        "title": "【演示】为什么 suitenumerique/docs 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **suitenumerique/docs** 这样轻量级且高性能的工具。\n\n 核心亮点\nsuitenumerique/docs 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社...",
-        "url": "https://github.com/suitenumerique/docs",
-        "stars": "Trending",
-        "date": "2026-02-09 13:50",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 resemble-ai/chatterbox 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，SoTA open-source TTS 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **resemble-ai/chatterbox** 这样轻量级且高性能的工具。\n\n 核心亮点\nresemble-ai/chatterbox 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (22,489 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试想一下，你只需要几行代码就能集成这个功能：\n```python...",
-        "url": "https://github.com/resemble-ai/chatterbox",
-        "stars": "Trending",
-        "date": "2026-02-09 13:42",
-        "category": "Deep Dive",
-        "affiliate_link": "https://u.jd.com/promo?id=4103255620&subid=hub"
-    },
-    {
-        "title": "【演示】为什么 hsliuping/TradingAgents-CN 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **hsliuping/TradingAgents-CN** 这样轻量级且高性能的工具。\n\n 核心亮点\nhsliuping/TradingAgents-CN 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (15,986 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试想一下，你...",
-        "url": "https://github.com/hsliuping/TradingAgents-CN",
-        "stars": "Trending",
-        "date": "2026-02-09 09:29",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 public-apis/public-apis 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，A collective list of free APIs 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **public-apis/public-apis** 这样轻量级且高性能的工具。\n\n 核心亮点\npublic-apis/public-apis 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (396,590 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试想一下，你只需要几行代码就能集成这个功...",
-        "url": "https://github.com/public-apis/public-apis",
-        "stars": "Trending",
-        "date": "2026-02-09 09:24",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 karpathy/nanoGPT 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，The simplest, fastest repository for training/finetuning medium-sized GPTs. 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **karpathy/nanoGPT** 这样轻量级且高性能的工具。\n\n 核心亮点\nkarpathy/nanoGPT 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (52,753 Stars) 证明了它的受欢迎程度。...",
-        "url": "https://github.com/karpathy/nanoGPT",
-        "stars": "Trending",
-        "date": "2026-02-09 09:18",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 p-e-w/heretic 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，Fully automatic censorship removal for language models 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **p-e-w/heretic** 这样轻量级且高性能的工具。\n\n 核心亮点\np-e-w/heretic 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (4,903 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试想一下，你只需要几行代码就能集成这...",
-        "url": "https://github.com/p-e-w/heretic",
-        "stars": "Trending",
-        "date": "2026-02-09 09:14",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 OpenBMB/MiniCPM-o 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **OpenBMB/MiniCPM-o** 这样轻量级且高性能的工具。\n\n 核心亮点\nOpenBMB/MiniCPM-o 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区...",
-        "url": "https://github.com/OpenBMB/MiniCPM-o",
-        "stars": "Trending",
-        "date": "2026-02-09 09:13",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 google/langextract 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **google/langextract** 这样轻量级且高性能的工具。\n\n 核心亮点\ngoogle/langextract 的出现改变了游戏规则。\n1. **高性...",
-        "url": "https://github.com/google/langextract",
-        "stars": "Trending",
-        "date": "2026-02-09 08:53",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 httpie/cli 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **httpie/cli** 这样轻量级且高性能的工具。\n\n 核心亮点\nhttpie/cli 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**:...",
-        "url": "https://github.com/httpie/cli",
-        "stars": "Trending",
-        "date": "2026-02-07 11:36",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 SWE-agent/mini-swe-agent 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified! 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **SWE-agent/mini-swe-agent** 这样轻量级且高性能的工具。\n\n 核心亮点\nSWE-age...",
-        "url": "https://github.com/SWE-agent/mini-swe-agent",
-        "stars": "Trending",
-        "date": "2026-02-07 11:00",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 shareAI-lab/learn-claude-code 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，Bash is all You need - Write a nano Claude Code 0 - 1 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **shareAI-lab/learn-claude-code** 这样轻量级且高性能的工具。\n\n 核心亮点\nshareAI-lab/learn-claude-code 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (16,616 Stars) 证明了它的受欢...",
-        "url": "https://github.com/shareAI-lab/learn-claude-code",
-        "stars": "Trending",
-        "date": "2026-02-07 10:22",
-        "category": "Deep Dive",
-        "affiliate_link": "https://u.jd.com/promo?id=4103255620&subid=hub"
-    },
-    {
-        "title": "【演示】为什么 microsoft/qlib 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped...",
-        "url": "https://github.com/microsoft/qlib",
-        "stars": "Trending",
-        "date": "2026-02-07 10:21",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 sgl-project/sglang 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，SGLang is a high-performance serving framework for large language models and multimodal models. 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **sgl-project/sglang** 这样轻量级且高性能的工具。\n\n 核心亮点\nsgl-project/sglang 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (2...",
-        "url": "https://github.com/sgl-project/sglang",
-        "stars": "Trending",
-        "date": "2026-02-07 10:16",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 confident-ai/deepeval 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，The LLM Evaluation Framework 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **confident-ai/deepeval** 这样轻量级且高性能的工具。\n\n 核心亮点\nconfident-ai/deepeval 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (13,525 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试想一下，你只需要几行代码就能集成这个功能：\n```p...",
-        "url": "https://github.com/confident-ai/deepeval",
-        "stars": "Trending",
-        "date": "2026-02-07 09:33",
-        "category": "Deep Dive",
-        "affiliate_link": "https://u.jd.com/promo?id=4103255620&subid=hub"
-    },
-    {
-        "title": "【演示】为什么 LearningCircuit/local-deep-research 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local & Encrypted. 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并...",
-        "url": "https://github.com/LearningCircuit/local-deep-research",
-        "stars": "Trending",
-        "date": "2026-02-07 09:31",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 ComposioHQ/awesome-claude-skills 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **ComposioHQ/awesome-claude-skills** 这样轻量级且高性能的工具。\n\n 核心亮点\nComposioHQ/awesome-claude-skills 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性...",
-        "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-        "stars": "Trending",
-        "date": "2026-02-07 09:01",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 OpenBMB/ChatDev 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **OpenBMB/ChatDev** 这样轻量级且高性能的工具。\n\n 核心亮点\nOpenBMB/ChatDev 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (30,431 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试...",
-        "url": "https://github.com/OpenBMB/ChatDev",
-        "stars": "Trending",
-        "date": "2026-02-07 08:41",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 anthropics/skills 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，Public repository for Agent Skills 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **anthropics/skills** 这样轻量级且高性能的工具。\n\n 核心亮点\nanthropics/skills 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (64,415 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试想一下，你只需要几行代码就能集成这个功能：\n```pyt...",
-        "url": "https://github.com/anthropics/skills",
-        "stars": "Trending",
-        "date": "2026-02-06 17:28",
-        "category": "Deep Dive",
-        "affiliate_link": null
     },
     {
         "title": "揭秘Grok2API：FastAPI重构，对话与图像生成新标杆，为何它如此火爆？",
