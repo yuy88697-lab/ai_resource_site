@@ -1,5 +1,14 @@
 [
     {
+        "title": "【演示】为什么 suitenumerique/docs 是下一个技术热点？",
+        "summary": "背景与痛点\n在当今的开发环境中，A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **suitenumerique/docs** 这样轻量级且高性能的工具。\n\n 核心亮点\nsuitenumerique/docs 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社...",
+        "url": "https://github.com/suitenumerique/docs",
+        "stars": "Trending",
+        "date": "2026-02-09 13:50",
+        "category": "Deep Dive",
+        "affiliate_link": null
+    },
+    {
         "title": "【演示】为什么 resemble-ai/chatterbox 是下一个技术热点？",
         "summary": "背景与痛点\n在当今的开发环境中，SoTA open-source TTS 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **resemble-ai/chatterbox** 这样轻量级且高性能的工具。\n\n 核心亮点\nresemble-ai/chatterbox 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (22,489 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试想一下，你只需要几行代码就能集成这个功能：\n```python...",
         "url": "https://github.com/resemble-ai/chatterbox",
