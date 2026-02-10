@@ -1,5 +1,14 @@
 [
     {
+        "title": "【演示】为什么 Shubhamsaboo/awesome-llm-apps 是下一个技术热点？",
+        "summary": "背景与痛点\n在当今的开发环境中，Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **Shubhamsaboo/awesome-llm-apps** 这样轻量级且高性能的工具。\n\n 核心亮点\nShubhamsaboo/awesome-llm-apps 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2....",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "stars": "Trending",
+        "date": "2026-02-10 09:17",
+        "category": "Deep Dive",
+        "affiliate_link": null
+    },
+    {
         "title": "【演示】为什么 openai/skills 是下一个技术热点？",
         "summary": "背景与痛点\n在当今的开发环境中，Skills Catalog for Codex 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **openai/skills** 这样轻量级且高性能的工具。\n\n 核心亮点\nopenai/skills 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (7,227 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试想一下，你只需要几行代码就能集成这个功能：\n```python\nimport openai/s...",
         "url": "https://github.com/openai/skills",
