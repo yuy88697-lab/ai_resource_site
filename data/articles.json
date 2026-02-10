@@ -1,5 +1,14 @@
 [
     {
+        "title": "Mealie：自托管食谱管理的新范式，智能厨房的甜蜜与挑战",
+        "summary": "Mealie：自托管食谱管理的新范式，智能厨房的甜蜜与挑战\n\n在数字化的浪潮席卷每一个角落的今天，连厨房也未能幸免。纸质菜谱的翻阅已渐行渐远，取而代之的是各类智能食谱管理工具。而在众多方案中，GitHub 上拥有超过 11,000 星的 Mealie（`mealie-recipes/mealie`）无疑是自托管领域的一颗耀眼新星。作为一名深耕科技媒体十年的主编，我将带你深入剖析 Mealie 如何定义我们的智能厨房未来，以及它在技术演进中面临的机遇与挑战。\n\n 一、核心亮点：一站式数字厨房体验\n\nMealie 的核心魅力在于其“一体化”的解决方案。它不仅仅是一个简单的食谱存储库，更...",
+        "url": "https://github.com/mealie-recipes/mealie",
+        "stars": "Trending",
+        "date": "2026-02-10 09:53",
+        "category": "Deep Dive",
+        "affiliate_link": null
+    },
+    {
         "title": "预测市场“超智体”登场：Polymarket/agents 如何重塑你的交易疆域",
         "summary": "作为一名在科技媒体行业摸爬滚打十年的主编，我见证了无数次技术浪潮的迭起。而今天，我们关注的这个名为 `Polymarket/agents` 的项目，无疑是当前“AI Agent”热潮与“预测市场”潜力结合的又一里程碑，预示着一个更加智能、自主的交易新时代的到来。\n\n项目地址：[https://github.com/Polymarket/agents](https://github.com/Polymarket/agents)\n星标数：2,123\n\n 破局者登场：AI Agent如何颠覆预测市场\n\n`Polymarket/agents` 的核心理念是利用AI Agent在 Polymark...",
         "url": "#",
@@ -7,42 +16,6 @@
         "date": "2026-02-10 09:48",
         "category": "Deep Dive",
         "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 hacksider/Deep-Live-Cam 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，real time face swap and one-click video deepfake with only a single image 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **hacksider/Deep-Live-Cam** 这样轻量级且高性能的工具。\n\n 核心亮点\nhacksider/Deep-Live-Cam 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (79,358 Stars)...",
-        "url": "https://github.com/hacksider/Deep-Live-Cam",
-        "stars": "Trending",
-        "date": "2026-02-10 09:40",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 DrewThomasson/ebook2audiobook 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，Generate audiobooks from e-books, voice cloning & 1158+ languages! 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **DrewThomasson/ebook2audiobook** 这样轻量级且高性能的工具。\n\n 核心亮点\nDrewThomasson/ebook2audiobook 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (17,842 S...",
-        "url": "https://github.com/DrewThomasson/ebook2audiobook",
-        "stars": "Trending",
-        "date": "2026-02-10 09:22",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 Shubhamsaboo/awesome-llm-apps 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **Shubhamsaboo/awesome-llm-apps** 这样轻量级且高性能的工具。\n\n 核心亮点\nShubhamsaboo/awesome-llm-apps 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2....",
-        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "stars": "Trending",
-        "date": "2026-02-10 09:17",
-        "category": "Deep Dive",
-        "affiliate_link": null
-    },
-    {
-        "title": "【演示】为什么 openai/skills 是下一个技术热点？",
-        "summary": "背景与痛点\n在当今的开发环境中，Skills Catalog for Codex 是一个常见的问题。传统的解决方案往往效率低下，难以满足现代高并发的需求。开发者们急需一款像 **openai/skills** 这样轻量级且高性能的工具。\n\n 核心亮点\nopenai/skills 的出现改变了游戏规则。\n1. **高性能**: 基于先进的架构设计。\n2. **易用性**: 开箱即用，文档完善。\n3. **社区活跃**: (7,227 Stars) 证明了它的受欢迎程度。\n\n 实战价值\n试想一下，你只需要几行代码就能集成这个功能：\n```python\nimport openai/s...",
-        "url": "https://github.com/openai/skills",
-        "stars": "Trending",
-        "date": "2026-02-09 16:15",
-        "category": "Deep Dive",
-        "affiliate_link": "https://u.jd.com/promo?id=4103255620&subid=hub"
     },
     {
         "title": "3331 Star力荐！AI Agent开发框架：从0到1，究竟隐藏了哪些硬核秘密？",
