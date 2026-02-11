@@ -1,5 +1,14 @@
 [
     {
+        "title": "字节跳动UI-TARS：AI代理如何重塑人机交互的未来——从桌面到游戏的全能“智能之手”",
+        "summary": "字节跳动UI-TARS：AI代理如何重塑人机交互的未来——从桌面到游戏的全能“智能之手”\n\n在AI浪潮席卷全球的当下，自动化已不再满足于简单的规则执行。一个真正能够理解、判断并主动与图形用户界面（GUI）交互的“智能大脑”正成为科技巨头们竞逐的新高地。由字节跳动开源的[UI-TARS项目](https://github.com/bytedance/UI-TARS)，正是这一前沿趋势的杰出代表，以其“开创性的、基于原生代理的自动化图形用户界面交互”能力，获得了9,502颗星的关注，预示着人机交互新范式的到来。\n\n 深度解读：超越传统自动化的“智能之眼”\n\nUI-TARS并非传统的RPA（...",
+        "url": "https://github.com/bytedance/UI-TARS",
+        "stars": "Trending",
+        "date": "2026-02-11 16:53",
+        "category": "Deep Dive",
+        "affiliate_link": "https://u.jd.com/promo?id=4103255620&subid=hub"
+    },
+    {
         "title": "告别手动调教：Skill_Seekers如何一键赋能Claude AI，打造你的专属知识专家",
         "summary": "告别手动调教：Skill_Seekers如何一键赋能Claude AI，打造你的专属知识专家\n\n在AI技术飞速发展的今天，大模型（LLMs）以其惊人的通用智能改变了我们与信息互动的方式。然而，无论是ChatGPT还是Claude，它们的核心挑战始终在于如何快速、准确地掌握“**专属领域知识**”并避免“**信息冲突**”。想象一下，如果你的AI助手能够瞬间理解你公司所有的内部文档、GitHub代码库，甚至是堆积如山的PDF报告，并能智能地识别信息中的矛盾之处，那会是怎样一番场景？\n\n今天，我们要深入解读的开源项目——`yusufkaraaslan/Skill_Seekers`，正是为了实现...",
         "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
