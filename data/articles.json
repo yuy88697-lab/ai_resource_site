@@ -1,5 +1,14 @@
 [
     {
+        "title": "告别机械音！OpenBMB VoxCPM：无分词、懂语境，深度重塑AI语音合成的未来",
+        "summary": "告别机械音！OpenBMB VoxCPM：无分词、懂语境，深度重塑AI语音合成的未来\n\n在AI飞速发展的今天，语音合成（Text-to-Speech, TTS）技术正经历着前所未有的变革。长期以来，TTS面临的挑战是如何让机器发出的声音听起来不仅清晰，而且富有情感、语调自然，真正能与人类交流媲美。现在，由OpenBMB团队推出的VoxCPM项目，以其独有的“无分词器”和“语境感知”能力，正在悄然打破这一僵局，为未来的语音技术描绘了一幅令人振奋的蓝图。\n\n 突破瓶颈：为什么“无分词器”是关键？\n\n传统TTS系统通常依赖于复杂的多阶段处理流水线：首先将文本分词，然后转换为音素序列，再由...",
+        "url": "https://github.com/OpenBMB/VoxCPM",
+        "stars": "Trending",
+        "date": "2026-02-11 16:58",
+        "category": "Deep Dive",
+        "affiliate_link": "https://u.jd.com/promo?id=4103255620&subid=hub"
+    },
+    {
         "title": "字节跳动UI-TARS：AI代理如何重塑人机交互的未来——从桌面到游戏的全能“智能之手”",
         "summary": "字节跳动UI-TARS：AI代理如何重塑人机交互的未来——从桌面到游戏的全能“智能之手”\n\n在AI浪潮席卷全球的当下，自动化已不再满足于简单的规则执行。一个真正能够理解、判断并主动与图形用户界面（GUI）交互的“智能大脑”正成为科技巨头们竞逐的新高地。由字节跳动开源的[UI-TARS项目](https://github.com/bytedance/UI-TARS)，正是这一前沿趋势的杰出代表，以其“开创性的、基于原生代理的自动化图形用户界面交互”能力，获得了9,502颗星的关注，预示着人机交互新范式的到来。\n\n 深度解读：超越传统自动化的“智能之眼”\n\nUI-TARS并非传统的RPA（...",
         "url": "https://github.com/bytedance/UI-TARS",
