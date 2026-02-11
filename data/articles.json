@@ -1,5 +1,14 @@
 [
     {
+        "title": "告别手动调教：Skill_Seekers如何一键赋能Claude AI，打造你的专属知识专家",
+        "summary": "告别手动调教：Skill_Seekers如何一键赋能Claude AI，打造你的专属知识专家\n\n在AI技术飞速发展的今天，大模型（LLMs）以其惊人的通用智能改变了我们与信息互动的方式。然而，无论是ChatGPT还是Claude，它们的核心挑战始终在于如何快速、准确地掌握“**专属领域知识**”并避免“**信息冲突**”。想象一下，如果你的AI助手能够瞬间理解你公司所有的内部文档、GitHub代码库，甚至是堆积如山的PDF报告，并能智能地识别信息中的矛盾之处，那会是怎样一番场景？\n\n今天，我们要深入解读的开源项目——`yusufkaraaslan/Skill_Seekers`，正是为了实现...",
+        "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+        "stars": "Trending",
+        "date": "2026-02-11 16:26",
+        "category": "Deep Dive",
+        "affiliate_link": "https://u.jd.com/promo?id=4103255620&subid=hub"
+    },
+    {
         "title": "告别通用助手：Claude-Skills 如何将你的AI编程伙伴升维为全栈专家",
         "summary": "告别通用助手：Claude-Skills 如何将你的AI编程伙伴升维为全栈专家\n\n在AI飞速发展的今天，开发者们无疑是第一批拥抱并受益于这项技术的群体。从代码自动补全到错误调试，AI正在重塑我们的工作流。然而，当通用AI模型在解决特定领域深度问题时，往往显得力不从心。这时，一个名为 **Jeffallan/claude-skills** 的项目横空出世，它不仅仅是一个工具，更是将Claude Code打造成全栈开发领域真正专家级伙伴的催化剂。作为一名资深科技媒体主编，我将带你深入解读这一项目如何引领AI辅助开发迈向专业化、实战化的新纪元。\n\n AI编程伙伴的“专精特新”之路\n\n**Je...",
         "url": "https://github.com/Jeffallan/claude-skills",
