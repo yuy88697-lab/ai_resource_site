@@ -1,5 +1,14 @@
 [
     {
+        "title": "告别AI编码助手“玄学”：Context Engineering如何开启编程新纪元？",
+        "summary": "告别AI编码助手“玄学”：Context Engineering如何开启编程新纪元？\n\n近年来，AI编码助手以其惊人的代码生成能力，迅速成为开发者工具箱中的新宠。然而，许多人也发现了其“玄学”的一面——输出质量不稳定，常常需要反复调试，甚至在复杂任务上表现力不从心。这背后真正的原因，并非AI不够智能，而是我们**提供上下文的方式不够“工程化”**。正是在这样的背景下，一个名为 `coleam00/context-engineering-intro` 的GitHub项目，以其独到的理念和实践，迅速获得了超过12,000颗星的关注，预示着一个全新的编程范式——**“上下文工程”（Context...",
+        "url": "https://github.com/coleam00/context-engineering-intro",
+        "stars": "Trending",
+        "date": "2026-02-12 14:21",
+        "category": "Deep Dive",
+        "affiliate_link": "https://u.jd.com/promo?id=4103255620&subid=hub"
+    },
+    {
         "title": "告别机械音！OpenBMB VoxCPM：无分词、懂语境，深度重塑AI语音合成的未来",
         "summary": "告别机械音！OpenBMB VoxCPM：无分词、懂语境，深度重塑AI语音合成的未来\n\n在AI飞速发展的今天，语音合成（Text-to-Speech, TTS）技术正经历着前所未有的变革。长期以来，TTS面临的挑战是如何让机器发出的声音听起来不仅清晰，而且富有情感、语调自然，真正能与人类交流媲美。现在，由OpenBMB团队推出的VoxCPM项目，以其独有的“无分词器”和“语境感知”能力，正在悄然打破这一僵局，为未来的语音技术描绘了一幅令人振奋的蓝图。\n\n 突破瓶颈：为什么“无分词器”是关键？\n\n传统TTS系统通常依赖于复杂的多阶段处理流水线：首先将文本分词，然后转换为音素序列，再由...",
         "url": "https://github.com/OpenBMB/VoxCPM",
