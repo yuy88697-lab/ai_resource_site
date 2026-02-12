@@ -1,5 +1,14 @@
 [
     {
+        "title": "掌控未来风向：TrendRadar，你的AI驱动智能信息雷达",
+        "summary": "掌控未来风向：TrendRadar，你的AI驱动智能信息雷达\n\n在信息爆炸的时代，如何从海量数据中精准捕捉有价值的信号，预判市场风向，甚至洞察舆论情绪，已成为企业、品牌乃至个人决策者面临的核心挑战。传统的信息搜集与分析工具往往效率低下、成本高昂，且难以满足个性化、实时性的需求。然而，GitHub上一个星标数高达46,168的项目——[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)，正以其独特的AI驱动能力，为我们描绘了一幅告别信息过载，智取先机的未来图景。\n\n作为一名深耕科技媒体十年的主编，我深知一个优秀工具的价值。T...",
+        "url": "https://github.com/sansan0/TrendRadar",
+        "stars": "Trending",
+        "date": "2026-02-12 14:27",
+        "category": "Deep Dive",
+        "affiliate_link": "https://u.jd.com/promo?id=4103255620&subid=hub"
+    },
+    {
         "title": "告别AI编码助手“玄学”：Context Engineering如何开启编程新纪元？",
         "summary": "告别AI编码助手“玄学”：Context Engineering如何开启编程新纪元？\n\n近年来，AI编码助手以其惊人的代码生成能力，迅速成为开发者工具箱中的新宠。然而，许多人也发现了其“玄学”的一面——输出质量不稳定，常常需要反复调试，甚至在复杂任务上表现力不从心。这背后真正的原因，并非AI不够智能，而是我们**提供上下文的方式不够“工程化”**。正是在这样的背景下，一个名为 `coleam00/context-engineering-intro` 的GitHub项目，以其独到的理念和实践，迅速获得了超过12,000颗星的关注，预示着一个全新的编程范式——**“上下文工程”（Context...",
         "url": "https://github.com/coleam00/context-engineering-intro",
