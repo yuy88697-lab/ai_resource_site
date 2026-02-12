@@ -1,5 +1,14 @@
 [
     {
+        "title": "告别繁琐前端：NiceGUI如何用Python“优雅”构建Web与桌面UI",
+        "summary": "作为一名在科技媒体领域摸爬滚打了十年的主编，我见证了无数新技术的兴衰。然而，当一款名为 `zauberzeug/nicegui` 的项目以其“用Python创建Web用户界面，就这么‘Nice’（优雅）”的口号，并在GitHub上斩获15,000+星时，我知道，这不仅仅是一个工具，更代表了一种深入人心的技术趋势。\n\n Python UI的“Nice”时代：为什么开发者们在欢呼？\n\n传统的Web应用开发，常常意味着前端（HTML、CSS、JavaScript）和后端（Python、Node.js等）的横亘。即便对于经验丰富的Python开发者，面对复杂的浏览器DOM操作和样式调整，也可能感到...",
+        "url": "https://github.com/zauberzeug/nicegui",
+        "stars": "Trending",
+        "date": "2026-02-12 14:29",
+        "category": "Deep Dive",
+        "affiliate_link": null
+    },
+    {
         "title": "掌控未来风向：TrendRadar，你的AI驱动智能信息雷达",
         "summary": "掌控未来风向：TrendRadar，你的AI驱动智能信息雷达\n\n在信息爆炸的时代，如何从海量数据中精准捕捉有价值的信号，预判市场风向，甚至洞察舆论情绪，已成为企业、品牌乃至个人决策者面临的核心挑战。传统的信息搜集与分析工具往往效率低下、成本高昂，且难以满足个性化、实时性的需求。然而，GitHub上一个星标数高达46,168的项目——[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)，正以其独特的AI驱动能力，为我们描绘了一幅告别信息过载，智取先机的未来图景。\n\n作为一名深耕科技媒体十年的主编，我深知一个优秀工具的价值。T...",
         "url": "https://github.com/sansan0/TrendRadar",
